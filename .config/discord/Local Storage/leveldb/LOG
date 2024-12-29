@@ -1,0 +1,6 @@
+2024/12/29-18:38:53.411 d54 Reusing MANIFEST /home/volod/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/12/29-18:38:53.422 d54 Recovering log #6
+2024/12/29-18:38:53.422 d54 Reusing old log /home/volod/.config/discord/Local Storage/leveldb/000006.log 
+2024/12/29-18:39:54.619 d55 Level-0 table #10: started
+2024/12/29-18:39:54.626 d55 Level-0 table #10: 58656 bytes OK
+2024/12/29-18:39:54.627 d55 Delete type=0 #6
